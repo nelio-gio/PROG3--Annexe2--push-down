@@ -1,9 +1,6 @@
 import java.util.List;
 
-/**
- * Main — point d'entrée du programme.
- * Lance toutes les requêtes Q1 à Q6 et affiche les résultats.
- */
+
 public class Main {
 
     public static void main(String[] args) {
